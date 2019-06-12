@@ -1,15 +1,7 @@
-# zhengAdmin
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/shuzheng/zhengAdmin/pulls)
-[![GitHub stars](https://img.shields.io/github/stars/shuzheng/zhengAdmin.svg?style=social&label=Stars)](https://github.com/shuzheng/zhengAdmin)
-[![GitHub forks](https://img.shields.io/github/forks/shuzheng/zhengAdmin.svg?style=social&label=Fork)](https://github.com/shuzheng/zhengAdmin)
+# rrchoqueAdmin
 
-基于bootstrap实现的响应式Material Design风格的通用后台管理系统
-
-交流QQ群：133107819🈵、284280411🈵、305155242🈵、528049386🈵、157869467🈵、570766789🈵、601147566♨️ 
-
-# 前端技术:
-技术 | 名称 | 官网
+# Tecnología de front-end:
+Tecnologia | Nombre | Web oficial
 ----|------|----
 jQuery | 函式库  | [http://jquery.com/](http://jquery.com/)
 Bootstrap | 前端框架  | [http://getbootstrap.com/](http://getbootstrap.com/)
@@ -28,7 +20,7 @@ autoMail | 邮箱地址自动补全插件  | [https://github.com/shuzheng/autoMa
 zheng.jprogress.js | 加载进度条插件  | [https://github.com/shuzheng/zheng.jprogress.js](https://github.com/shuzheng/zheng.jprogress.js)
 zheng.jtotop.js | 返回顶部插件  | [https://github.com/shuzheng/zheng.jtotop.js](https://github.com/shuzheng/zheng.jtotop.js)
 
-# 在线演示
+# Demo en linea
 
 地址： [http://www.zhangshuzheng.cn/zhengAdmin](http://www.zhangshuzheng.cn/zhengAdmin "zhengAdmin")
 
